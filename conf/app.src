@@ -1,7 +1,7 @@
-SOURCE_URL=url of app's source
-SOURCE_SUM=sha256 checksum
-SOURCE_SUM_PRG=sha256sum
+SOURCE_URL=https://github.com/bouncepaw/mycorrhiza/releases/download/v1.2.0/mycorrhiza-v1.2.0-linux-amd64.tar.gz
+SOURCE_SUM=2eaa47c9da986512cc7617b8cb300536
+SOURCE_SUM_PRG=md5sum
 SOURCE_FORMAT=tar.gz
-SOURCE_IN_SUBDIR=true
-SOURCE_FILENAME=
+SOURCE_IN_SUBDIR=false
+SOURCE_FILENAME=mycorrhiza
 SOURCE_EXTRACT=true
